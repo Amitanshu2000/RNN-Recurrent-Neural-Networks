@@ -43,3 +43,5 @@ This project focuses on sentiment analysis using Recurrent Neural Networks (RNNs
 
 ## Contributors
 - Anirudh Gupta
+- Amitanshu Tiwari
+  
